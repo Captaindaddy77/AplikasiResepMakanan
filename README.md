@@ -143,9 +143,8 @@ Tekan Import → pilih file .txt atau .csv → data langsung dimuat
 
 🎨 Tampilan Aplikasi
 
-(Ganti link gambar dengan screenshot aplikasi milikmu)
+<img width="614" height="763" alt="Screenshot 2025-11-16 215025" src="https://github.com/user-attachments/assets/a8bff2e4-1822-4da2-bbc6-826da7b09019" />
 
-<img width="850" src="path_to_your_screenshot.png" />
 
 📝 Catatan Pengembang
 
